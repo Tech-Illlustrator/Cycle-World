@@ -803,9 +803,6 @@ clip-path: polygon(0 0, 75% 8%, 75% 80%, 0% 100%);
 .about_main::after {
 
     content: '';
-    background-color: 
-
-#ffffff;
 
 position: absolute;
 

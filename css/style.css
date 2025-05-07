@@ -455,6 +455,7 @@ button {
   display: flex;
   flex-wrap: wrap;
   gap: 3rem;
+  padding-bottom: 10px;
 }
 
 .scroller[data-animated="true"] {
